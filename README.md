@@ -20,4 +20,4 @@ Utilitys (Sonstige non-sicherheits Module wie Welcome-Message etc.),
 # Links
 [ToS und Privacy](https://stonkslukas.github.io/stonksmod-info/)
 
-[--> Lade StonksMod auf deinen Server ein <--]() (noch nicht bereit :D)
+[--> Lade StonksMod auf deinen Server ein <--](https://einlukas.de/) (noch nicht bereit :D)
